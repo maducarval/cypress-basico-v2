@@ -1,0 +1,13 @@
+{
+    "PluginsFile": false,
+    "viewportHeight":880,
+    "viewportWidth": 1280,
+    "chromeWebSecurity": false,
+    "experimentalSessionSupport": true,
+
+    "env": 
+    {
+    "USERNAME": "admin",
+    "PASSWORD": "admin"
+    }
+}
